@@ -1,10 +1,10 @@
 
 <html>
-<link href="css/productDetail.css" rel="stylesheet" type="text/css" />
+<link href="css/style1.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 </style>
 <head>
-<title>Sell funds </title>
+<title>Transaction History </title>
 
 
 <!--Paste the part start here -->
@@ -47,7 +47,7 @@
 <div id="productDetailDiv" >
 
 <p id="is" align="left"><a href="index.html" style="padding-left: 350px; margin-top: 20px;">
-	Home </a> &gt; <a href="search result.html">stock trading management</a> &gt;sell funds
+	Home </a> &gt; <a href="search result.html">stock trading management</a> &gt;transaction history
 </p>
 	<table id="sell funds" cellspacing="20" style="margin-left: 340">
 		<tr>
